@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.b07demosummer2024"
+    namespace = "com.b072024gr2.ecoproj"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.b07demosummer2024"
+        applicationId = "com.b072024gr2.ecoproj"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
